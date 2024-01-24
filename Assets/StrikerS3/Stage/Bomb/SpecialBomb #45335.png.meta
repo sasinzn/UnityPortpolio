@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: ac16ea3afb14c7a4b8da719d9c20880d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpecialBomb #45335_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c3584ebe785c42b0e7e4037784f05
+      internalID: -1042902143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba1f85121de7246a1f9862b84cc8bb
+      internalID: 1573034018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0522f69d64aa2408797e3de4c5e1c1
+      internalID: -1871402294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322c23c248ef83c41be28d695d50a69a
+      internalID: -2042320885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a083e9abc8924283d9f0cfeed63da
+      internalID: -1628047999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e935145eaa8ee964fada6347dc38cfab
+      internalID: -2124425286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792a62600c63865458acc6cb5881e221
+      internalID: -1950593433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e170fb184c36e264f9cc902e1c9207f7
+      internalID: 1418742848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ab7133bc26c534ca7be5f91462a254
+      internalID: 810326539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd36f6493cc97f4eacd6f0c0e4ac646
+      internalID: -1518273046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4e7304c194c4a498f3479ec81854be
+      internalID: 499673711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 600
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43af86ed3bbfff41a49ac19a4aaee18
+      internalID: 1787918044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e56ec1bba39d3d40b3d530a7b40f6b1
+      internalID: 456173962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b91e954029b6b419003e64994915c2
+      internalID: -965001193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737b460bd2e8ed84ba677432e4c75514
+      internalID: -606104561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea5b149af43b014fbc5c3043a67f006
+      internalID: -2068614602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f42081c074c2aa4bbf6ea98f754efcc
+      internalID: 1508030273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b17adbf3d31ba4496758f93e63349b
+      internalID: 1610185386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e86a813d6a954881a535917eca818
+      internalID: 293151040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c361992b256a7434783f021179738e8b
+      internalID: -782074278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6535c1d44a78284c81837d3f4803337
+      internalID: -1057616971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_21
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ff069f2a605f4b8050c334cff6a8a
+      internalID: -595937874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08590aaf4aa3ec14f871e0fadf4b2616
+      internalID: 118312162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 400
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124cdda0a7d76f459f3c6a6de453a1f
+      internalID: 975757964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1843287681470264da4620a12daa6edd
+      internalID: -297942050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a140ae21e320f549a1c8bffc3afc560
+      internalID: -1671472563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178fac60351b6ad47adedcdbaaf0798f
+      internalID: 2018296663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c63156e125f7942a18255fdf0ae501
+      internalID: 1696380208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d6821350a983043845c374131ffc5e
+      internalID: 829576772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb685d0098416df48b1a32e214c2ca3b
+      internalID: 1538628815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff21eab73c06ed24487b214b2008b878
+      internalID: 70341094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4611826f63db24cb56394b0b6fe466
+      internalID: -1817121486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e762f4711460ec49bf820d7027cca09
+      internalID: 157357019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a73b48054d6b44bb3624a5983f253
+      internalID: 941410802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34daf09ee9b9e7744813b99e0ace6010
+      internalID: -1372930419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_35
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 200
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d856b838d08128499ff91003093a681
+      internalID: -1797798341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078543fc39db73c439989ba7b81dfceb
+      internalID: 312136271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e1417641bbb543a35b8fddaea3fd3
+      internalID: 297115451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a10565d4f53864dad2fd618acd0074
+      internalID: 810659233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a85a369941e47e42835a385d9fb8944
+      internalID: -1518374196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b0620482c71e4abf30f02bed1cf6a
+      internalID: 1848161016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b2ec5fb8ba7d744b218399698a3e46
+      internalID: -1813806540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e90048eab38f478d796e2bd51a583
+      internalID: -756865907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f0e3a3dd9d7a4e85f1056e16f3f56
+      internalID: 997995311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222daa8c91672ee4ab74f7f4224f1759
+      internalID: -664412933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c88851c298128447920649d78e5796b
+      internalID: -1189097928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_46
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a26ce70bda9e148ac09893f97a4582
+      internalID: -801912678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBomb #45335_47
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96.666664
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e9718e008bff4496e5a6d24624dc3
+      internalID: 785060092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpecialBomb #45335_0: -1042902143
+      SpecialBomb #45335_1: 1573034018
+      SpecialBomb #45335_10: 499673711
+      SpecialBomb #45335_11: 1787918044
+      SpecialBomb #45335_12: 456173962
+      SpecialBomb #45335_13: -965001193
+      SpecialBomb #45335_14: -606104561
+      SpecialBomb #45335_15: -2068614602
+      SpecialBomb #45335_16: 1508030273
+      SpecialBomb #45335_17: 1610185386
+      SpecialBomb #45335_18: 293151040
+      SpecialBomb #45335_19: -782074278
+      SpecialBomb #45335_2: -1871402294
+      SpecialBomb #45335_20: -1057616971
+      SpecialBomb #45335_21: -595937874
+      SpecialBomb #45335_22: 118312162
+      SpecialBomb #45335_23: 975757964
+      SpecialBomb #45335_24: -297942050
+      SpecialBomb #45335_25: -1671472563
+      SpecialBomb #45335_26: 2018296663
+      SpecialBomb #45335_27: 1696380208
+      SpecialBomb #45335_28: 829576772
+      SpecialBomb #45335_29: 1538628815
+      SpecialBomb #45335_3: -2042320885
+      SpecialBomb #45335_30: 70341094
+      SpecialBomb #45335_31: -1817121486
+      SpecialBomb #45335_32: 157357019
+      SpecialBomb #45335_33: 941410802
+      SpecialBomb #45335_34: -1372930419
+      SpecialBomb #45335_35: -1797798341
+      SpecialBomb #45335_36: 312136271
+      SpecialBomb #45335_37: 297115451
+      SpecialBomb #45335_38: 810659233
+      SpecialBomb #45335_39: -1518374196
+      SpecialBomb #45335_4: -1628047999
+      SpecialBomb #45335_40: 1848161016
+      SpecialBomb #45335_41: -1813806540
+      SpecialBomb #45335_42: -756865907
+      SpecialBomb #45335_43: 997995311
+      SpecialBomb #45335_44: -664412933
+      SpecialBomb #45335_45: -1189097928
+      SpecialBomb #45335_46: -801912678
+      SpecialBomb #45335_47: 785060092
+      SpecialBomb #45335_5: -2124425286
+      SpecialBomb #45335_6: -1950593433
+      SpecialBomb #45335_7: 1418742848
+      SpecialBomb #45335_8: 810326539
+      SpecialBomb #45335_9: -1518273046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

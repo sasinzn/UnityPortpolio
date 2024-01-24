@@ -1,0 +1,5 @@
+key,hp,attack,speed,exp,type,range,sprite,colliderSize,colliderOffset
+0,10,1,2,20,0,0,EnemyA,1.3,0
+1,20,2,2,30,0,0,EnemyB,1.3,0
+2,50,4,1.5,50,1,10,EnemyC,1.3,0
+3,100,8,1,100,1,15,Boss,2.75,0

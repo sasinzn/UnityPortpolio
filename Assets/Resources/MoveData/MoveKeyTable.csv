@@ -1,0 +1,10 @@
+EnemyMoveKey
+MoveLeft
+MoveRight
+MoveCrossLeftUp
+MoveCrossRightUp
+MoveCrossLeft
+MoveCrossRight
+MoveZigZagLeft
+MoveZigZagRight
+MoveRoll
